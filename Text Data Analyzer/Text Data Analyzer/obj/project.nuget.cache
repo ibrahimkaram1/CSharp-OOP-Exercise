@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uW34zjXKm/Q=",
+  "success": true,
+  "projectFilePath": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\Text Data Analyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|g:\\c# fundamental\\csharp oop exercise\\text data analyzer\\text data analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|solutionrelative:text data analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|g:\\c# fundamental\\csharp oop exercise\\text data analyzer\\text data analyzer\\csvfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|solutionrelative:text data analyzer\\csvfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|g:\\c# fundamental\\csharp oop exercise\\text data analyzer\\text data analyzer\\textfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|solutionrelative:text data analyzer\\textfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|g:\\c# fundamental\\csharp oop exercise\\text data analyzer\\text data analyzer\\ifileanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|solutionrelative:text data analyzer\\ifileanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|g:\\c# fundamental\\csharp oop exercise\\text data analyzer\\text data analyzer\\fileinfoextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|solutionrelative:text data analyzer\\fileinfoextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|g:\\c# fundamental\\csharp oop exercise\\text data analyzer\\text data analyzer\\fileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|solutionrelative:text data analyzer\\fileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|g:\\c# fundamental\\csharp oop exercise\\text data analyzer\\text data analyzer\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8583F6-D645-4AB7-BC05-B77DB59D3A7C}|Text Data Analyzer\\Text Data Analyzer.csproj|solutionrelative:text data analyzer\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileInfoExtention.cs",
+              "DocumentMoniker": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\FileInfoExtention.cs",
+              "RelativeDocumentMoniker": "Text Data Analyzer\\FileInfoExtention.cs",
+              "ToolTip": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\FileInfoExtention.cs",
+              "RelativeToolTip": "Text Data Analyzer\\FileInfoExtention.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:46:35.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextFileAnalyzer.cs",
+              "DocumentMoniker": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\TextFileAnalyzer.cs",
+              "RelativeDocumentMoniker": "Text Data Analyzer\\TextFileAnalyzer.cs",
+              "ToolTip": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\TextFileAnalyzer.cs",
+              "RelativeToolTip": "Text Data Analyzer\\TextFileAnalyzer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:02:18.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileAnalyzer.cs",
+              "DocumentMoniker": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\FileAnalyzer.cs",
+              "RelativeDocumentMoniker": "Text Data Analyzer\\FileAnalyzer.cs",
+              "ToolTip": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\FileAnalyzer.cs",
+              "RelativeToolTip": "Text Data Analyzer\\FileAnalyzer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:01:17.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVFileAnalyzer.cs",
+              "DocumentMoniker": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\CSVFileAnalyzer.cs",
+              "RelativeDocumentMoniker": "Text Data Analyzer\\CSVFileAnalyzer.cs",
+              "ToolTip": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\CSVFileAnalyzer.cs",
+              "RelativeToolTip": "Text Data Analyzer\\CSVFileAnalyzer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:00:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalysisResult.cs",
+              "DocumentMoniker": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\AnalysisResult.cs",
+              "RelativeDocumentMoniker": "Text Data Analyzer\\AnalysisResult.cs",
+              "ToolTip": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\AnalysisResult.cs",
+              "RelativeToolTip": "Text Data Analyzer\\AnalysisResult.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:00:11.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileAnalysis.cs",
+              "DocumentMoniker": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\IFileAnalysis.cs",
+              "RelativeDocumentMoniker": "Text Data Analyzer\\IFileAnalysis.cs",
+              "ToolTip": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\IFileAnalysis.cs",
+              "RelativeToolTip": "Text Data Analyzer\\IFileAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T20:59:39.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\Program.cs",
+              "RelativeDocumentMoniker": "Text Data Analyzer\\Program.cs",
+              "ToolTip": "G:\\c# fundamental\\CSharp OOP Exercise\\Text Data Analyzer\\Text Data Analyzer\\Program.cs",
+              "RelativeToolTip": "Text Data Analyzer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:02:25.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

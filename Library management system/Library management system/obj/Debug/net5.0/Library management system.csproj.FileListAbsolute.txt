@@ -1,0 +1,15 @@
+G:\c# fundamental\Library management system\Library management system\bin\Debug\net5.0\Library management system.exe
+G:\c# fundamental\Library management system\Library management system\bin\Debug\net5.0\Library management system.deps.json
+G:\c# fundamental\Library management system\Library management system\bin\Debug\net5.0\Library management system.runtimeconfig.json
+G:\c# fundamental\Library management system\Library management system\bin\Debug\net5.0\Library management system.runtimeconfig.dev.json
+G:\c# fundamental\Library management system\Library management system\bin\Debug\net5.0\Library management system.dll
+G:\c# fundamental\Library management system\Library management system\bin\Debug\net5.0\Library management system.pdb
+G:\c# fundamental\Library management system\Library management system\obj\Debug\net5.0\Library management system.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# fundamental\Library management system\Library management system\obj\Debug\net5.0\Library management system.AssemblyInfoInputs.cache
+G:\c# fundamental\Library management system\Library management system\obj\Debug\net5.0\Library management system.AssemblyInfo.cs
+G:\c# fundamental\Library management system\Library management system\obj\Debug\net5.0\Library management system.csproj.CoreCompileInputs.cache
+G:\c# fundamental\Library management system\Library management system\obj\Debug\net5.0\Library management system.dll
+G:\c# fundamental\Library management system\Library management system\obj\Debug\net5.0\refint\Library management system.dll
+G:\c# fundamental\Library management system\Library management system\obj\Debug\net5.0\Library management system.pdb
+G:\c# fundamental\Library management system\Library management system\obj\Debug\net5.0\Library management system.genruntimeconfig.cache
+G:\c# fundamental\Library management system\Library management system\obj\Debug\net5.0\ref\Library management system.dll

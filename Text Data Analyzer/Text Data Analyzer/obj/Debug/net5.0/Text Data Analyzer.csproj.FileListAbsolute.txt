@@ -1,0 +1,15 @@
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\obj\Debug\net5.0\Text Data Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\obj\Debug\net5.0\Text Data Analyzer.AssemblyInfoInputs.cache
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\obj\Debug\net5.0\Text Data Analyzer.AssemblyInfo.cs
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\obj\Debug\net5.0\Text Data Analyzer.csproj.CoreCompileInputs.cache
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\bin\Debug\net5.0\Text Data Analyzer.exe
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\bin\Debug\net5.0\Text Data Analyzer.deps.json
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\bin\Debug\net5.0\Text Data Analyzer.runtimeconfig.json
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\bin\Debug\net5.0\Text Data Analyzer.runtimeconfig.dev.json
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\bin\Debug\net5.0\Text Data Analyzer.dll
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\bin\Debug\net5.0\Text Data Analyzer.pdb
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\obj\Debug\net5.0\Text Data Analyzer.dll
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\obj\Debug\net5.0\refint\Text Data Analyzer.dll
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\obj\Debug\net5.0\Text Data Analyzer.pdb
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\obj\Debug\net5.0\Text Data Analyzer.genruntimeconfig.cache
+G:\c# fundamental\Text Data Analyzer\Text Data Analyzer\obj\Debug\net5.0\ref\Text Data Analyzer.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Text Data Analyzer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+G:\c# fundamental\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# fundamental\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.AssemblyInfoInputs.cache
+G:\c# fundamental\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.AssemblyInfo.cs
+G:\c# fundamental\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.csproj.CoreCompileInputs.cache
+G:\c# fundamental\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.exe
+G:\c# fundamental\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.deps.json
+G:\c# fundamental\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.runtimeconfig.json
+G:\c# fundamental\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.runtimeconfig.dev.json
+G:\c# fundamental\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.dll
+G:\c# fundamental\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.pdb
+G:\c# fundamental\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.dll
+G:\c# fundamental\Maze Game\Maze Game\obj\Debug\net5.0\refint\Maze Game.dll
+G:\c# fundamental\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.pdb
+G:\c# fundamental\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.genruntimeconfig.cache
+G:\c# fundamental\Maze Game\Maze Game\obj\Debug\net5.0\ref\Maze Game.dll
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.exe
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.deps.json
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.runtimeconfig.json
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.runtimeconfig.dev.json
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.dll
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\bin\Debug\net5.0\Maze Game.pdb
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.AssemblyInfoInputs.cache
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.AssemblyInfo.cs
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.csproj.CoreCompileInputs.cache
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.dll
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\obj\Debug\net5.0\refint\Maze Game.dll
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.pdb
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\obj\Debug\net5.0\Maze Game.genruntimeconfig.cache
+G:\c# fundamental\CSharp OOP Exercise\Maze Game\Maze Game\obj\Debug\net5.0\ref\Maze Game.dll

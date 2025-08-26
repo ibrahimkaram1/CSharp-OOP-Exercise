@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Maze Game": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
