@@ -20,21 +20,7 @@ namespace Library_management_system
             PhoneNumber = phoneNumber;
             Card = card;
         }
-        // Method to borrow a book
-        //public void BorrowBook(Library library, Book book)
-        //{
-
-        //    object borrowedBook = Book;
-        //    if (!Book.book && book.IsValid)
-        //    {
-        //        Console.WriteLine($"{Name} borrowed '{book.Title}' from the library.");
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine($"Sorry, '{book.Title}' is not available for borrowing.");
-        //    }
-        //}
-        // Method to return a book
+        
         public void ReturnBook(Library library, Book book)
         {
             Console.WriteLine($"{Name} returned '{book.Title}' to the library.");
