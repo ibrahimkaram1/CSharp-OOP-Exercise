@@ -29,13 +29,6 @@ namespace Text_Data_Analyzer
             var lines = filestring.Split(new char[] { '\n' });
             result.LineCount = lines.Length;
 
-
-            //result = GetResult();
-            //result.LineCount = lines.Length;
-            //result.WordCount = lines.Sum(line => line.Split(new[] { ' ', '\t' }, StringSplitOptions.RemoveEmptyEntries).Length);
-            //result.CharacterCount = lines.Sum(line => line.Length);
-            //result.FieldCount = lines.Sum(line => line.Split(',').Length);
-            //setResult(result);
         }
     }
 }
