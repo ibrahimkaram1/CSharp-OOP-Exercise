@@ -18,10 +18,5 @@ namespace Text_Data_Analyzer
             result .FieldCount = rowelments.Length;
             setResult(result);
         }
-
-        //internal AnalysisResult GetResult()
-        //{
-        //    throw new NotImplementedException();
-        //}
     }
 }
